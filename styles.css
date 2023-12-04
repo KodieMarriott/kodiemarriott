@@ -10,7 +10,7 @@ h1 {
   width: 100%;
   display: block;
 }
-h1:hover{
+h2:hover{
   color: hotpink;
   text-align: center;
   width: 100%;
